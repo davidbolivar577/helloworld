@@ -7,6 +7,7 @@ A python Hello World project to test the development environment
 Steps to build and/or run the software:
 
 1. Install latest python version (3.14 is used)
+2. Run hello.py
 
 Instructions for using the software:
 
